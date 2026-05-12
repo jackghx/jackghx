@@ -11,8 +11,8 @@
 
 ## About Me
 
-17-year-old security researcher. I specialise in defensive security, production-grade homelab & network infrastructure, reverse engineering IoT devices, and automation.
-Based in Liverpool, UK.
+<p>17-year-old security researcher. I specialise in defensive security, production-grade homelab & network infrastructure, reverse engineering IoT devices, and automation.
+Based in Liverpool, UK.</p>
 ---
 
 ## Tech Stack
