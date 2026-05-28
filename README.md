@@ -11,7 +11,7 @@
 
 ## About Me
 
-<p>Mostly infrastructure, automation, and self-hosted services.</p>
+<p>Exploring.</p>
 
 ## Tech Stack
 
