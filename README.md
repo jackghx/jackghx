@@ -1,8 +1,5 @@
 <div align="center">
-<a href="https://jackghx.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&lines=Jack+Ghafari;IT+%26+Cybersecurity+Student;Proxmox+%7C+OPNsense+%7C+Wazuh;Breaking+things+to+understand+them." alt="Typing SVG" />
-</a>
-<br/>
+
 <a href="https://jackghx.com"><img src="https://img.shields.io/badge/jackghx.com-000000?style=for-the-badge&logo=vercel&logoColor=00D9FF" /></a>
 <a href="https://linkedin.com/in/jackghx"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
