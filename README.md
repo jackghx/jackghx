@@ -1,14 +1,8 @@
 <div align="center">
-
 <a href="https://jackghx.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&lines=Jack+Ghafari;IT+%26+Cybersecurity+Student" alt="Typing SVG" />
-</p>
-
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1&pause=999999&color=7F8C8D&center=true&vCenter=true&width=900&lines=An+idiot+admires+complexity%2C+a+genius+admires+simplicity.;-+Terry+Davis" alt="Quote SVG" />
-</p>
 </a>
-
-
 <br/>
 <a href="https://jackghx.com"><img src="https://img.shields.io/badge/jackghx.com-000000?style=for-the-badge&logo=vercel&logoColor=00D9FF" /></a>
 <a href="https://linkedin.com/in/jackghx"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -17,7 +11,6 @@
 ---
 
 ## About Me
-
 <p>Exploring.</p>
 
 ## Tech Stack
@@ -50,14 +43,32 @@
 
 ## Featured Projects
 
-### 🤖 NeuralRevise -- Autonomous MCQ Revision Agent
+### Cyber Revision: UK Cybersecurity Revision Platform
+Free revision platform at **cyber.jackghx.com**, benchmarked against OWASP Top 10:2025, NIST CSF 2.0, and MITRE ATT&CK v19. Quizzes, spaced-repetition flashcards, auto-graded challenges, and a certificate verification system with real verification codes.
+
+`Cybersecurity` `OWASP` `NIST CSF` `MITRE ATT&CK`
+
+---
+
+### Scrub: Security-Artefact Sanitiser
+Local-first tool that detects and pseudonymises infrastructure-specific secrets, internal IPs, MACs, cloud keys, tokens, connection strings, that generic PII tools aren't built to catch. General DLP tools are built for customer data; security practitioners leak a different class of identifier entirely, and Scrub is built specifically for that gap.
+- ~30+ entity types via a custom Presidio recogniser pack
+- FastAPI service, Next.js review UI, pipeable CLI, git pre-commit hook, and a CI workflow that gates on audit results
+- Consistent, reversible pseudonymisation: same input always maps to the same output, so sanitised data stays analytically useful
+- OCR redaction for images and screenshots planned
+
+`Python` `Presidio` `FastAPI` `Next.js` `Data Loss Prevention`
+
+---
+
+### NeuralRevise: Autonomous MCQ Revision Agent
 An autonomous web agent built with **CDP + Ollama (llama3.1:8b)** that automates MCQ revision tasks with adaptive memory. The agent navigates revision platforms, answers questions, and builds a self-updating memory of weak topics.
 
 `Python` `Ollama` `Llama 3.1` `CDP`
 
 ---
 
-### 🏠 Proxmox Homelab -- Full Network Stack
+### Proxmox Homelab: Full Network Stack
 Production-grade home infrastructure on an i7-7700 / 32GB machine:
 - **OPNsense** VM with WAN / LAN / DMZ segmentation (`vmbr0-vmbr3`)
 - **Wazuh SIEM** with Suricata IDS
@@ -71,13 +82,13 @@ Production-grade home infrastructure on an i7-7700 / 32GB machine:
 
 ---
 
-### 🌐 jackghx.com -- Cybersecurity Portfolio
-Personal portfolio built with **Next.js / Vercel** with full SEO stack:
-- JSON-LD schemas, Open Graph tags, Google Search Console & Bing Webmaster Tools
-- Integrated **revision.jackghx.com** subdomain for student revision hub
-- Originally made with PicoClaw
+### Anonycord: Privacy-Focused iOS App
+Forked and substantially rebuilt iOS app (v3.0/v3.1) with a Face ID-locked vault, dual-camera capture, blackout mode, and haptic and volume-button trigger support:
+- Face ID vault for locking sensitive captures behind biometric auth
+- Dual-camera capture and discreet blackout mode
+- GitHub Actions CI pipeline building unsigned IPAs on every push
 
-`Next.js` `Vercel` `SEO` `JSON-LD`
+`iOS` `Swift` `GitHub Actions` `Privacy`
 
 ---
 
